@@ -2,7 +2,8 @@
 Practicing Pygame programming with the recreation of Flappy Bird
 
 Nov 7th 2022
-Flappy Bird project is COMPLETED including completion of all basic functionality
+Flappy Bird project is COMPLETED including completion of all basic functionality.
+
 To view gameplay: https://mistysky04.github.io/
 
 
